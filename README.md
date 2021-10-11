@@ -11,7 +11,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xPurp&theme=tokyonight" alt="mystreak"/>
 ![0xPurp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPurp&theme=tokyonight&layout=compact)
 
-[![0xPurp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@localhost&layout=compact&lang_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning python & vue.js with OpenClassroom
 
