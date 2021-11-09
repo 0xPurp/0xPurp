@@ -1,6 +1,6 @@
 <h1 align="center">Hello World ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at Molengeek
+### :smiley_cat: I am a Full Stack Developer Junior
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 
